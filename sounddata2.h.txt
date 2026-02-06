@@ -1,0 +1,15 @@
+#ifndef SOUNDDATA_H
+#define SOUNDDATA_H
+
+#include <avr/pgmspace.h>
+
+const int sounddata_length = 9824;
+
+const unsigned char sounddata_data[] PROGMEM = {
+  128,131,135,140,146,152,158,163,
+  167,170,172,173,172,170,167,163,
+  158,152,146,140,135,131,128,
+  /* THOUSANDS of values */
+};
+
+#endif
