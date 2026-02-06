@@ -52,7 +52,7 @@ Future updates may include sensors, signal conditioning, and improvements.
 ## 🎥 Demo
 
 👉 **Working video:**  
-[![Fire Alarm Demo](thumbnail.png)](demo.mp4)
+[![Fire Alarm Demo](thumbnail.jpeg)](demo.mp4)
 
 
 ---
